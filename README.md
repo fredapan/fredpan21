@@ -1,4 +1,3 @@
 - 👋 Hi, I’m @fredpan21
 - 👀 I’m interested in software development and AI!
-- 🌱 I’m currently learning python.
-- 📫 How to reach me fredapann@gmail.com
+- 🌱 I’m currently learning java.
